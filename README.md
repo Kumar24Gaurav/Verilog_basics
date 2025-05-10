@@ -5,7 +5,7 @@ Each file demonstrates a core concept of the Verilog Hardware Description Langua
 
 ## 📁 File List
 
-### 2. [input_output_example.v](https://github.com/Kumar24Gaurav/Verilog_basics/blob/main/input_output_demo.v)
+### 1. [input_output_example.v](https://github.com/Kumar24Gaurav/Verilog_basics/blob/main/input_output_demo.v)
 - Demonstrate how to declare input and output ports.
 - Assign a constant value to the output port.
 
