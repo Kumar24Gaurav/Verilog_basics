@@ -12,3 +12,7 @@ Each file demonstrates a core concept of the Verilog Hardware Description Langua
 ### 2. [wire_example.v](https://github.com/Kumar24Gaurav/Verilog_basics/blob/main/wire_example_demo.v)
 - Demonstrates how to use the `wire` keyword in Verilog.
 - Implements a simple AND gate where the result is first assigned to a wire, then passed to the output.
+
+### 3. [7458chip.v](https://github.com/Kumar24Gaurav/Verilog_basics/blob/main/7458chip.v)
+- The 7458 is a chip with four AND gates and two OR gates.
+- Create a module with the same functionality as the 7458 chip. It has 10 inputs and 2 outputs.
