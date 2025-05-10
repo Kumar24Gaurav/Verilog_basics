@@ -5,10 +5,10 @@ Each file demonstrates a core concept of the Verilog Hardware Description Langua
 
 ## 📁 File List
 
-### 2. [input_output_example.v]([input_output_example.v](https://github.com/Kumar24Gaurav/Verilog_basics/blob/main/input_output_demo.v))
+### 2. [input_output_example.v](https://github.com/Kumar24Gaurav/Verilog_basics/blob/main/input_output_demo.v)
 - Demonstrate how to declare input and output ports.
 - Assign a constant value to the output port.
 
-### 2. [wire_example.v]([wire_example.v](https://github.com/Kumar24Gaurav/Verilog_basics/blob/main/wire_example_demo.v))
+### 2. [wire_example.v](https://github.com/Kumar24Gaurav/Verilog_basics/blob/main/wire_example_demo.v)
 - Demonstrates how to use the `wire` keyword in Verilog.
 - Implements a simple AND gate where the result is first assigned to a wire, then passed to the output.
