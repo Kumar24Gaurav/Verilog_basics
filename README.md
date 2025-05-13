@@ -21,4 +21,4 @@ Each file demonstrates a core concept of the Verilog Hardware Description Langua
 
 ### 4. Vector Introduction
 - [vector_intro01.v](https://github.com/Kumar24Gaurav/Verilog_basics/blob/main/vector_intro01.v)
-- [vector_intro02.v}
+- [vector_intro02.v]
